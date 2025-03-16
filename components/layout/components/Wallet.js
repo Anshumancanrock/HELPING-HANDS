@@ -4,7 +4,7 @@ import { useState } from "react";
 
 const networks = {
   polygon: {
-    chainId: `0x${Number(80001).toString(16)}`,
+    chainId: `0x${Number(80002).toString(16)}`,
     chainName: "Polygon Testnet",
     nativeCurrency: {
       name: "MATIC",
