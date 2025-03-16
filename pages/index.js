@@ -20,7 +20,7 @@ export default function Index({
   return (
     <PageWrapper>
       <Header>
-        <TitleMain>Futuristic Crowdfunding</TitleMain>
+        <TitleMain>WEB 3.0 Crowdfunding</TitleMain>
         <Subtitle>Empowering Decentralized Campaigns</Subtitle>
       </Header>
       <FilterWrapper>
